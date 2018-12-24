@@ -1,0 +1,38 @@
+Overall stats:
+
+Total DM games played
+Total MM games played
+Total MM wins/losses
+# Days since first recorded game
+Avg # DM games / day
+Avg # MM games / day
+
+KDA Stats
+Total DM kills
+Total DM deaths
+Total DM assists
+Overall DM K/D
+Avg kills per DM game (only use completed games)
+Total MM kills
+Total MM deaths
+Overall MM K/D
+Avg kills per MM game
+Avg kills per win
+Avg kills per loss
+Avg K/D per win/loss
+
+Time-dependent stats
+DM K/D over time
+DM Kills/game over time
+MM K/D over time
+MM Kills/game over time
+MM win/loss ratio over time
+
+Map-dependent stats
+# DM games per map
+# MM games per map
+
+DM K/D per map
+MM K/D per map
+
+Combine Time+map dependent stats
